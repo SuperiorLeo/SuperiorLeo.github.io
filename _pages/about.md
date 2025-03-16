@@ -27,8 +27,6 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 
 # 📝 Publications 
 
-My full paper list can be found at <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=eBel2B8AAAAJ'>.
-
 ## Unsupervised Spectral Reconstruction
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLs 2025</div><img src='images/UnSSR.png' alt="sym" width="80%"></div></div>
