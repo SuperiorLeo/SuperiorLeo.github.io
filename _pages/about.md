@@ -50,6 +50,10 @@ Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10093998)][[MFormer\]](https://github.com/SuperiorLeo/MFormer-Taming-Masked-Transformer-for-Unsupervised-Spectral-Reconstruction)
 
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - 2023, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
 - 2019, National Scholarship for Undergraduate Studen \| 本科生国家奖学金
