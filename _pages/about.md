@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a **PhD** student at [Xidian University](https://www.xidian.edu.cn/).
+I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 
 # 🔍Research Topics
 
