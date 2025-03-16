@@ -33,7 +33,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 ## Unsupervised Spectral Reconstruction
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLs 2025</div><img src='images/E2E.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLs 2025</div><img src='images/UnSSR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Uncertainty-Guided Discriminative Priors Mining for Flexible Unsupervised Spectral Reconstruction**
@@ -44,7 +44,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/E2E.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/MFormer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MFormer: Taming masked transformer for unsupervised spectral reconstruction**
