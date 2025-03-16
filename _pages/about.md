@@ -54,7 +54,7 @@ Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 
 # 🎖 Honors and Awards
 - 2023, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
-- 2019, National Scholarship for Undergraduate Studen \| 本科生国家奖学金
+- 2019, National Scholarship for Undergraduate Student \| 本科生国家奖学金
 
 # 📖 Educations
 - *2023.09 - now*, pursueing Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Jiaojiao Li](https://web.xidian.edu.cn/jjli/). 
