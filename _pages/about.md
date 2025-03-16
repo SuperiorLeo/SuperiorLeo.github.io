@@ -59,4 +59,4 @@ Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 # 📖 Educations
 - *2023.09 - now*, pursueing Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Jiaojiao Li](https://web.xidian.edu.cn/jjli/). 
 - *2022.09 - 2023.06*, M.S at [Xidian University](https://www.xidian.edu.cn/).
-- *2018.09 - 2022.06*, at [Xidian University](https://www.xidian.edu.cn/).
+- *2018.09 - 2022.06*, B.S at [Xidian University](https://www.xidian.edu.cn/).
