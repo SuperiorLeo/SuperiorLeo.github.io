@@ -36,6 +36,7 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 <div class='paper-box-text' markdown="1">
 
 **MIPI 2025 Challenge on Deblurring for Hybrid EVS Camera**
+
 **Yihong Leng**, **Siming Zheng**, Peng-Tao Jiang, Linxiao Shi, Jinwei Chen, Bo Li, Jiaojiao Li
 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/html/Wu_MIPI_2025_Challenge_on_Deblurring_for_Hybrid_EVS_Camera_Methods_ICCVW_2025_paper.html)][[MotionDissolve\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/vivoCamera/MotionDissolve))
@@ -43,10 +44,11 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/red.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/red.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RED: Robust Event-Guided Motion Deblurring with Modality-Specific Disentangled Representation**
+
 **Yihong Leng**, **Siming Zheng**, Jinwei Chen, Bo Li, Jiaojiao Li, Peng-Tao Jiang
 
 
