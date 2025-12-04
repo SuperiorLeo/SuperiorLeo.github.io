@@ -106,6 +106,8 @@ Jiaojiao Li, Songcheng Du, Chaoxiong Wu, **Yihong Leng**, Rui Song, Yunsong Li
 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_DRCR_Net_Dense_Residual_Channel_Re-Calibration_Network_With_Non-Local_Purification_CVPRW_2022_paper.pdf)][[DRCR\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/jojolee6513/DRCR-net))
 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - 2025, First Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学一等学业奖学金
