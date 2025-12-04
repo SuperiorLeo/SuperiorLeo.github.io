@@ -58,6 +58,20 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 </div>
 </div>
 
+## Label-efficient Spectral Reconstruction
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/POINTSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From Image-to Pixel-level: Label-efficient Hyperspectral Image Reconstruction**
+
+**Yihong Leng**, Jiaojiao Li, Haitao Xu, Rui Song
+
+[[Paper](https://arxiv.org/abs/2503.06852)][PointSSR]
+
+</div>
+</div>
+
 ## Unsupervised Spectral Reconstruction
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLs 2025</div><img src='images/UnSSR.png' alt="sym" width="80%"></div></div>
@@ -81,6 +95,16 @@ Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 
 </div>
 </div>
+
+## Spectral Reconstruction
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/award_sr.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Drcr net: Dense residual channel re-calibration network with non-local purification for spectral super resolution**
+Jiaojiao Li, Songcheng Du, Chaoxiong Wu, **Yihong Leng**, Rui Song, Yunsong Li
+
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_DRCR_Net_Dense_Residual_Channel_Re-Calibration_Network_With_Non-Local_Purification_CVPRW_2022_paper.pdf)][[DRCR\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/jojolee6513/DRCR-net))
 
 
 # 🎖 Honors and Awards
