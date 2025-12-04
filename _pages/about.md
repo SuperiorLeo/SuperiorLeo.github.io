@@ -78,6 +78,7 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 <div class='paper-box-text' markdown="1">
 
 **Uncertainty-Guided Discriminative Priors Mining for Flexible Unsupervised Spectral Reconstruction**
+
 **Yihong Leng**, Jiaojiao Li, Rui Song, Yunsong Li, Qian Du
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10843147)][[UnSSR\]](https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR)
@@ -89,6 +90,7 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 <div class='paper-box-text' markdown="1">
 
 **MFormer: Taming masked transformer for unsupervised spectral reconstruction**
+
 Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10093998)][[MFormer\]](https://github.com/SuperiorLeo/MFormer-Taming-Masked-Transformer-for-Unsupervised-Spectral-Reconstruction)
@@ -102,6 +104,7 @@ Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 <div class='paper-box-text' markdown="1">
 
 **Drcr net: Dense residual channel re-calibration network with non-local purification for spectral super resolution**
+
 Jiaojiao Li, Songcheng Du, Chaoxiong Wu, **Yihong Leng**, Rui Song, Yunsong Li
 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_DRCR_Net_Dense_Residual_Channel_Re-Calibration_Network_With_Non-Local_Purification_CVPRW_2022_paper.pdf)][[DRCR\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/jojolee6513/DRCR-net))
