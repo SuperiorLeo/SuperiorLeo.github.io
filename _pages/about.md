@@ -16,16 +16,45 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 
 # 🔍Research Topics
 
+- **Low-Level Version**: image restoration, image deblur, event-based image deblur, etc
+- **Computational photography**: CASSI, etc
 - **Remote Sensing Image Processing**: Hyperspectral/Multimodal Remote Sensing, etc
 - **Computer Vision**: Spectral Reconstruction/Fusion/Object Detection/Mamba/Transformer, etc.
 
 # 🔥 News
+- **[2025.8]** Win the World Second Place in MIPI 2025 Challenge on Deblurring for Hybrid EVS Camera! ICCV2025-MIPI去模糊挑战赛世界第二
 - **[2025.1]** One paper is accepted by **TNNLs** ([UnSSR](https://ieeexplore.ieee.org/abstract/document/10843147))!
 - **[2023.4]** One paper is accepted by **TGRS** ([MFormer](https://ieeexplore.ieee.org/abstract/document/10093998))!
 - **[2022.10]** Win the World Third Place in CVPR NTIRE Spectral Reconstruction Track! 光谱重建竞赛世界第三
 - **[2019.10]** Win National Scholarship for Undergraduate Student! 本科生国家奖学金
 
 # 📝 Publications 
+
+## Event-based Image Deblurring
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/award_deblur.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MIPI 2025 Challenge on Deblurring for Hybrid EVS Camera**
+**Yihong Leng**, **Siming Zheng**, Peng-Tao Jiang, Linxiao Shi, Jinwei Chen, Bo Li, Jiaojiao Li
+
+[[Paper](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/html/Wu_MIPI_2025_Challenge_on_Deblurring_for_Hybrid_EVS_Camera_Methods_ICCVW_2025_paper.html)][[MotionDissolve\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/vivoCamera/MotionDissolve))
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/red.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RED: Robust Event-Guided Motion Deblurring with Modality-Specific Disentangled Representation**
+**Yihong Leng**, **Siming Zheng**, Jinwei Chen, Bo Li, Jiaojiao Li, Peng-Tao Jiang
+
+
+[[Paper](https://arxiv.org/pdf/2509.05554)][[RED\]]
+
+
+</div>
+</div>
 
 ## Unsupervised Spectral Reconstruction
 
@@ -53,10 +82,13 @@ Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 
 
 # 🎖 Honors and Awards
+- 2025, First Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学一等学业奖学金
+- 2024, First Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学一等学业奖学金
 - 2023, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
 - 2019, National Scholarship for Undergraduate Student \| 本科生国家奖学金
 
 # 📖 Educations
 - *2023.09 - now*, pursueing Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Jiaojiao Li](https://web.xidian.edu.cn/jjli/). 
+- *2025.05 - 2025.12*, I worked as a research intern at Vivo, supervised by Siming Zheng and Peng-Tao Jiang.
 - *2022.09 - 2023.06*, M.S at [Xidian University](https://www.xidian.edu.cn/).
 - *2018.09 - 2022.06*, B.S at [Xidian University](https://www.xidian.edu.cn/).
