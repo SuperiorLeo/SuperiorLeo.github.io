@@ -112,6 +112,7 @@ Jiaojiao Li, Songcheng Du, Chaoxiong Wu, **Yihong Leng**, Rui Song, Yunsong Li
 </div>
 
 # 🎖 Honors and Awards
+- 2025, supported by the Fundamental Research Funds for the Central Universities and the Innovation Fund of Xidian University \| 中央高校基本科研业务费专项资金资助和西安电子科技大学研究生创新基金资助
 - 2025, First Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学一等学业奖学金
 - 2024, First Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学一等学业奖学金
 - 2023, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
