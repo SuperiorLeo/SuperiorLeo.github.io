@@ -73,6 +73,16 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 </div>
 </div>
 
+## Semi-supervised Spectral Reconstruction
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/DecSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards Open-World Spectral Super-Resolution with Solution and Frequency Decomposition**
+**Yihong Leng**, Jiaojiao Li, Rui Song, Haitao Xu, Yunsong Li, Qian Du
+
+</div>
+</div>
+
 ## Unsupervised Spectral Reconstruction
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLs 2025</div><img src='images/UnSSR.png' alt="sym" width="80%"></div></div>
