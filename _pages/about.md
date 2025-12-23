@@ -120,6 +120,6 @@ Jiaojiao Li, Songcheng Du, Chaoxiong Wu, **Yihong Leng**, Rui Song, Yunsong Li
 
 # 📖 Educations
 - *2023.09 - now*, pursueing Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Jiaojiao Li](https://web.xidian.edu.cn/jjli/). 
-- *2025.05 - 2025.12*, I worked as a research intern at Vivo, supervised by Siming Zheng and Peng-Tao Jiang.
+- *2025.05 - 2025.12*, I worked as a research intern at vivo, supervised by Siming Zheng and Peng-Tao Jiang.
 - *2022.09 - 2023.06*, M.S at [Xidian University](https://www.xidian.edu.cn/).
 - *2018.09 - 2022.06*, B.S at [Xidian University](https://www.xidian.edu.cn/).
