@@ -33,7 +33,7 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 # 📝 Publications 
 
 ## Semi-supervised Spectral Reconstruction
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/DecSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/SemiSR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Memory-efficient Hyperspectral Image Reconstruction via Consistency Learning**
@@ -43,7 +43,7 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/SemiSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/DecSSR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Open-World Spectral Super-Resolution with Solution and Frequency Decomposition**
