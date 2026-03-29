@@ -22,7 +22,8 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 - **Computer Vision**: Spectral Reconstruction/Fusion/Object Detection/Mamba/Transformer, etc.
 
 # 🔥 News
-- **[2025.12]** One paper is accepted by **TGRS**! We will release the code soon!
+- **[2026.3]** One paper is accepted by **TIP**!([MTSSR](https://github.com/SuperiorLeo/TIP2026-Towards-Memory-efficient-Hyperspectral-Image-Reconstruction-via-Consistency-Learning))!
+- **[2025.12]** One paper is accepted by **TGRS**!([DecSSR](https://github.com/SuperiorLeo/TGRS2026-Toward-Open-World-Spectral-Super-Resolution-With-Solution-and-Frequency-Decomposition))!
 - **[2025.8]** Win the World Second Place in MIPI 2025 Challenge on Deblurring for Hybrid EVS Camera! ICCV2025-MIPI去模糊挑战赛世界第二
 - **[2025.1]** One paper is accepted by **TNNLs** ([UnSSR](https://ieeexplore.ieee.org/abstract/document/10843147))!
 - **[2023.4]** One paper is accepted by **TGRS** ([MFormer](https://ieeexplore.ieee.org/abstract/document/10093998))!
@@ -74,7 +75,17 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 </div>
 
 ## Semi-supervised Spectral Reconstruction
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/DecSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/DecSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards Memory-efficient Hyperspectral Image Reconstruction via Consistency Learning**
+
+**Yihong Leng**, Jiaojiao Li, Rui Song, Haitao Xu, Yunsong Li, Qian Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/SemiSR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Open-World Spectral Super-Resolution with Solution and Frequency Decomposition**
@@ -83,6 +94,7 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 
 </div>
 </div>
+
 
 ## Unsupervised Spectral Reconstruction
 
