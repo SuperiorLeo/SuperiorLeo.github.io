@@ -32,48 +32,6 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 
 # 📝 Publications 
 
-## Event-based Image Deblurring
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/award_deblur.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**MIPI 2025 Challenge on Deblurring for Hybrid EVS Camera**
-
-**Yihong Leng**, **Siming Zheng**, Peng-Tao Jiang, Linxiao Shi, Jinwei Chen, Bo Li, Jiaojiao Li
-
-[[Paper](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/html/Wu_MIPI_2025_Challenge_on_Deblurring_for_Hybrid_EVS_Camera_Methods_ICCVW_2025_paper.html)][[MotionDissolve\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/vivoCamera/MotionDissolve))
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/red.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**RED: Robust Event-Guided Motion Deblurring with Modality-Specific Disentangled Representation**
-
-**Yihong Leng**, **Siming Zheng**, Jinwei Chen, Bo Li, Jiaojiao Li, Peng-Tao Jiang
-
-
-[[Paper](https://arxiv.org/pdf/2509.05554)][[RED\]]
-
-
-</div>
-</div>
-
-## Label-efficient Spectral Reconstruction
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/POINTSSR.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**From Image-to Pixel-level: Label-efficient Hyperspectral Image Reconstruction**
-
-**Yihong Leng**, Jiaojiao Li, Haitao Xu, Rui Song
-
-[[Paper](https://arxiv.org/abs/2503.06852)][PointSSR]
-
-</div>
-</div>
-
 ## Semi-supervised Spectral Reconstruction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/DecSSR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,6 +75,48 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 Jiaojiao Li, **Yihong Leng**, Rui Song, Wei Liu, Yunsong Li, Qian Du
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10093998)][[MFormer\]](https://github.com/SuperiorLeo/MFormer-Taming-Masked-Transformer-for-Unsupervised-Spectral-Reconstruction)
+
+</div>
+</div>
+
+## Event-based Image Deblurring
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/award_deblur.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MIPI 2025 Challenge on Deblurring for Hybrid EVS Camera**
+
+**Yihong Leng**, **Siming Zheng**, Peng-Tao Jiang, Linxiao Shi, Jinwei Chen, Bo Li, Jiaojiao Li
+
+[[Paper](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/html/Wu_MIPI_2025_Challenge_on_Deblurring_for_Hybrid_EVS_Camera_Methods_ICCVW_2025_paper.html)][[MotionDissolve\]]([https://github.com/SuperiorLeo/Uncertainty-guided-UnSSR](https://github.com/vivoCamera/MotionDissolve))
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/red.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RED: Robust Event-Guided Motion Deblurring with Modality-Specific Disentangled Representation**
+
+**Yihong Leng**, **Siming Zheng**, Jinwei Chen, Bo Li, Jiaojiao Li, Peng-Tao Jiang
+
+
+[[Paper](https://arxiv.org/pdf/2509.05554)][[RED\]]
+
+
+</div>
+</div>
+
+## Label-efficient Spectral Reconstruction
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/POINTSSR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From Image-to Pixel-level: Label-efficient Hyperspectral Image Reconstruction**
+
+**Yihong Leng**, Jiaojiao Li, Haitao Xu, Rui Song
+
+[[Paper](https://arxiv.org/abs/2503.06852)][PointSSR]
 
 </div>
 </div>
