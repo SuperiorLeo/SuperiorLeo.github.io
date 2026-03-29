@@ -40,6 +40,8 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 
 **Yihong Leng**, Jiaojiao Li, Rui Song, Haitao Xu, Yunsong Li, Qian Du
 
+[[Paper]()][[MTSSR\]](https://github.com/SuperiorLeo/TIP2026-Towards-Memory-efficient-Hyperspectral-Image-Reconstruction-via-Consistency-Learning)
+
 </div>
 </div>
 
@@ -49,6 +51,8 @@ I am a Ph.D. candidate at [Xidian University](https://www.xidian.edu.cn/).
 **Towards Open-World Spectral Super-Resolution with Solution and Frequency Decomposition**
 
 **Yihong Leng**, Jiaojiao Li, Rui Song, Haitao Xu, Yunsong Li, Qian Du
+
+[[Paper](https://ieeexplore.ieee.org/document/11316172)][[DecSSR\]](https://github.com/SuperiorLeo/TGRS2026-Toward-Open-World-Spectral-Super-Resolution-With-Solution-and-Frequency-Decomposition)
 
 </div>
 </div>
